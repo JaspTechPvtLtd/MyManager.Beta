@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyManager",
   "resources": {
-    "hash": "sha256-xIpqT6bqb+WOky1J4WsvjEjQtxQP25wXCOZcX/+B7A0=",
+    "hash": "sha256-ncZdWqR4HAnshuawEh7Z59zelLalPK10FN6pQrSI6iI=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.0c4gw6zl9i.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -41,7 +41,7 @@
       "MongoDB.Driver.Core.wasm": "sha256-gSLkPLh2zWVV7ifB7nalsQz+mZF9hpJXnH53CtzpGuk=",
       "MongoDB.Driver.wasm": "sha256-wreuJxrnn8coAPH7MENPOh6zCkQ30TtN3f9xzlaTd70=",
       "MongoDB.Libmongocrypt.wasm": "sha256-1AzIcqEpyUHNLdGt1cbfxgV8QF8x2+eKT9DOowkRdis=",
-      "MyManager.wasm": "sha256-rl0Cso6mvE7mOdk2onVr4BlkNzbxiDlMuTt8mYeD6f8=",
+      "MyManager.wasm": "sha256-Ousi/LMemcDKW5ibWJXQ383BSRTJ+8+uYMO/M4ipMp0=",
       "netstandard.wasm": "sha256-UYufddwGx81czk2uyrjsZfomTkmEICryFEOgfIezaco=",
       "SharpCompress.wasm": "sha256-5T7C9zsTB8Pr6/ydLJ4ILwSeTbvSzCeyxVoEXO0Rl5Q=",
       "Snappier.wasm": "sha256-Gm94GtJQLL4cxpQaCqIJxc0dCxpC/lvYPK/tNy0pRVk=",
